@@ -7,13 +7,13 @@
 ## 🖼️ Capturas de Pantalla
 
 ### Notificación de Recordatorio
-![Notificación](./capturas/notificacion.png)
+![Notificación](./Capturas de pantalla/Captura de pantalla 2025-07-20 094140.png)
 
 ### Interfaz Principal
-![Interfaz](./capturas/interfaz_principal.png)
+![Interfaz](./Capturas de pantalla/Captura de pantalla 2025-07-20 101132.png)
 
 ### Temporizador Activo
-![Temporizador](./capturas/temporizador.png)
+![Temporizador](./Capturas de pantalla/bandicam 2025-07-20 11-01-03-217.jpg)
 
 ---
 
